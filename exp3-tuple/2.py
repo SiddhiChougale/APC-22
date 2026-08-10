@@ -1,0 +1,5 @@
+cities=("kolhapur","pune","mumbai","satara")
+print("cities: ",cities)
+print("First:",cities[0])
+print("Last:",cities[-1])
+print("third:",cities[2])
